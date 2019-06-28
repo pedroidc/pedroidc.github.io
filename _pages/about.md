@@ -14,13 +14,10 @@ I am a PhD Student at the Federal University of ABC, at the Information Engineer
 Research Area
 ------
 
-Wireless Communications
-
-Channel Estimation and Equalisation
-
-Physical Layer Security
-
-Physical Layer Network Coding
+- Wireless Communications
+- Channel Estimation and Equalisation
+- Physical Layer Security
+- Physical Layer Network Coding
 
 Contacts
 -----
