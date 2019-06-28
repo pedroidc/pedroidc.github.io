@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pedro Ivo"
   avatar           : "pedro-bio-photo-1.jpg"
-  bio              : "|PhD Student | \nMSc Information Engineer | \nBSc Information Engineer | \nBSc Science and Technology |"
+  bio              : "PhD Student \nMSc Information Engineer \nBSc Information Engineer \nBSc Science and Technology"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
