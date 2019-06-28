@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Pedro Ivo"
   avatar           : "pedro-bio-photo-1.jpg"
-  bio              : |\n
-··Several lines of text,\n
-··with some "quotes" of various 'types',\n
-··and also a blank line:\n
-··\n
-··plus another line at the end.\n
+  bio              : " Several lines of text,\n
+  with some \"quotes\" of various 'types',\n
+  and also a blank line\n
+  \n
+  plus another line at the end.\n
+  \n
+  \n"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
