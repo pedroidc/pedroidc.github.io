@@ -15,7 +15,7 @@ Research Area
 ------
 
 - Wireless Communications
-- Channel Estimation and Equalisation
+- Channel Estimation and Equalization
 - Physical Layer Security
 - Physical Layer Network Coding
 
