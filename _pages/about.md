@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student at the Federal University of ABC, at the Information Engineering program.
+I am a PhD Candidate at the Federal University of ABC, at the Information Engineering program.
 
 
 Research Area
