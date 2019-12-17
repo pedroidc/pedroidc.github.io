@@ -11,10 +11,11 @@ redirect_from:
 I am a PhD Candidate at the Federal University of ABC, at the Information Engineering program.
 
 
-Research Area
+Research Interests
 ------
 
 - Wireless Communications
+- Massive MIMO
 - Channel Estimation and Equalization
 - Physical Layer Security
 - Physical Layer Network Coding
