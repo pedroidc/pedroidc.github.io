@@ -37,10 +37,14 @@ Teaching Experience
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-
+* Digital Signal Processing
+  * Undergraduation course at the Federal University of ABC
+  * First quadrimester, 2015
+* Digital Signal Processing
+* Information Theory and Coding
 
   
 Awards
 ======
 * Excellence Academy Award 2016 - Federal University of ABC
-First place in the Information Engineering postgraduate programme. This award is granted to the best postgraduate students at the Federal University of ABC.
+  * First place in the Information Engineering postgraduate programme. This award is granted to the best postgraduate students at the Federal University of ABC.
