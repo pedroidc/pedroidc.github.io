@@ -38,13 +38,26 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 * Digital Signal Processing
+  * Teaching Assistant
   * Undergraduation course at the Federal University of ABC
-  * First quadrimester, 2015
+  * Second quarter, 2017
 * Digital Signal Processing
+  * Teaching Assistant
+  * Undergraduation course at the Federal University of ABC
+  * Second quarter, 2018
 * Information Theory and Coding
+  * Teaching Assistant
+  * Undergraduation course at the Federal University of ABC
+  * First quarter, 2015
 
-  
 Awards
 ======
 * Excellence Academy Award 2016 - Federal University of ABC
+  * May 2017
   * First place in the Information Engineering postgraduate programme. This award is granted to the best postgraduate students at the Federal University of ABC.
+* CREA Professional Recognition Award
+  * Dez 2015
+  * Award granted to the best undergraduate student in each Engineering programee from the Federal University ABC.
+* Brazilian Engineering Institute Award
+  * Dez 2015
+  * Award granted to the best undergraduate student in each Engineering programee from the Federal University ABC.
