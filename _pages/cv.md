@@ -29,18 +29,18 @@ Work experience
 Skills
 ======
 * Matlab
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Simulation of communications Systems
  
 Teaching Experience
 ======
-  <ul>{% for post in site.teaching %}
+<!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+
   
 Awards
 ======
-* Currently signed in to 43 different slack teams
+* Excellence Academy Award 2016 - Federal University of ABC
+First place in the Information Engineering postgraduate programme. This award is granted to the best postgraduate students at the Federal University of ABC.
