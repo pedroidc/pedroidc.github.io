@@ -10,6 +10,8 @@ redirect_from:
 
 I am a PhD Candidate at the Federal University of ABC, at the Information Engineering program.
 
+This website intends to gather my research activities an interests, and professional information.
+
 
 Research Interests
 ------
