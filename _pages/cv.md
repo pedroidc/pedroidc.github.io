@@ -52,7 +52,7 @@ Teaching Experience
 
 Organization of Events
 ======
-* II Wokshop of the Laboratory of Signal and Systems, 2019
+* [II Wokshop of the Laboratory of Signal and Systems, 2019](https://doi.org/10.14209/jcis.2018.29)
 * 7th Signal Processing Symposium, 2017.
 * I Wokshop of the Laboratory of Signal and Systems, 2015
 * II Information Journey, 2015.
