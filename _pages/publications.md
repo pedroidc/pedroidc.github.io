@@ -34,3 +34,6 @@ author_profile: true
 3. **Pedro Ivo da Cruz**, Ricardo Suyama, Murilo Bellezoni Loiola, "Wireless Physical-layer Security Using Precoding and an Active Eavesdropper," In: XXXV Brazilian Telecommunications and Signal Processing Symposium, São Pedro, 2017.
 
 4. **Pedro Ivo da Cruz**, Murilo Bellezoni Loiola, "Channel Estimation for Two-way Relay Networks Over Frequency Selective Fading Channels," In: XXXIV Brazilian Telecommunications and Signal Processing Symposium, Santarém, 2016.
+
+#Expanded Summary published in proceedings of conferences
+1.	**Pedro Ivo da Cruz**, Murilo Bellezoni Loiola, “Channel Length Estimation for Physical-layer Network Coding Communication systems (In Portuguese: Estimação do comprimento do canal em Sistemas de Comunicação com Codificação de Rede na Camada Física),” In: Proceedings of V Grande ABC Research Symposium, 2016.
