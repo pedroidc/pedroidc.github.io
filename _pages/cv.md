@@ -39,22 +39,29 @@ Teaching Experience
   {% endfor %}</ul> -->
 * Digital Signal Processing
   * Teaching Assistant
-  * Undergraduation course at the Federal University of ABC
+  * BSc in Information Engineering Program, Federal University of ABC
   * Second quarter, 2017
 * Digital Signal Processing
   * Teaching Assistant
-  * Undergraduation course at the Federal University of ABC
+  * BSc in Information Engineering Program, Federal University of ABC
   * Second quarter, 2018
 * Information Theory and Coding
   * Teaching Assistant
-  * Undergraduation course at the Federal University of ABC
+  * BSc in Information Engineering Program, Federal University of ABC
   * First quarter, 2015
+
+Organization of Events
+======
+* II Wokshop of the Laboratory of Signal and Systems, 2019
+* 7th Signal Processing Symposium, 2017.
+* I Wokshop of the Laboratory of Signal and Systems, 2015
+* II Information Journey, 2015.
 
 Awards
 ======
 * Excellence Academy Award 2016 - Federal University of ABC
   * May 2017
-  * First place in the Information Engineering postgraduate programme. This award is granted to the best postgraduate students at the Federal University of ABC.
+  * First place in the Information Engineering postgraduate program. This award is granted to the best postgraduate students at the Federal University of ABC.
 * CREA Professional Recognition Award
   * Dez 2015
   * Award granted to the best undergraduate student in each Engineering programee from the Federal University ABC.
