@@ -52,10 +52,10 @@ Teaching Experience
 
 Organization of Events
 ======
-* [II Wokshop of the Laboratory of Signal and Systems, 2019](https://lssufabc.wixsite.com/mostra-lss)
-* [7th Signal Processing Symposium, 2017](http://eventos.ufabc.edu.br/siimsps/)
-* [I Wokshop of the Laboratory of Signal and Systems, 2015](https://picruz3.wixsite.com/iworkshoplss)
-* [II Information Journey, 2015](https://jorninfoufabc.wixsite.com/jornada3)
+* [II Wokshop of the Laboratory of Signal and Systems](https://lssufabc.wixsite.com/mostra-lss), 2019
+* [7th Signal Processing Symposium](http://eventos.ufabc.edu.br/siimsps/), 2017
+* [I Wokshop of the Laboratory of Signal and Systems](https://picruz3.wixsite.com/iworkshoplss), 2015
+* [II Information Journey](https://jorninfoufabc.wixsite.com/jornada3), 2015
 
 Awards
 ======
