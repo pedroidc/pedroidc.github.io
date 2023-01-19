@@ -1,0 +1,48 @@
+/* Make persons picture rounded and with a border */
+.img-responsive {
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  padding: 5px;
+  width: 200px;
+  /*margin-left: auto;*/
+  margin-right: auto;
+}
+
+/* Change general style of main-body div class */
+.main-body {
+	font-family: verdana, Segoe UI;
+	font-size: 16px;
+	margin-top:3%;
+	text-align: left;
+}
+
+/* Change style of h1 in main-body div class */
+/*.main-body h1{
+	font-family: 'Oswald', sans-serif;
+	font-size: 32px;
+}*/
+
+/* Change style of person's name in the left column */
+.name-title {
+	font-family: 'Oswald', sans-serif;
+	font-size: 32px;
+}
+
+/* Draw a line after the h2 text */
+/*h2.section {
+	margin-top:3%;
+	width: 100%; 
+   	text-align: center; 
+   	border-bottom: 1px solid #000; 
+   	line-height: 0.5em;
+   	margin: 10px 0 20px; 
+}*/
+
+/*h2.section span {
+	background:#fff; 
+    padding:0 10px; 
+}*/
+
+.menu {
+	font-size: 16px;
+}
