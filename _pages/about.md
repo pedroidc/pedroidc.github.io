@@ -22,6 +22,3 @@ Research Interests
 - Physical Layer Security
 - Physical Layer Network Coding
 
-Contacts
------
-
