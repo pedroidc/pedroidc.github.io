@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pedro Ivo da Cruz"
 title_separator          : "-"
 name                     : &name "Pedro Ivo da Cruz"
-description              : &description "PhD Student | Information Engineer"
+description              : &description "PhD | Information Engineer"
 url                      : https://pedroidc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedroidc/pedroidc.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pedro Ivo"
   avatar           : "pedro-bio-photo-1.jpg"
-  bio              : "PhD Student\nMSc Information Engineer\nBSc Information Engineer\nBSc Science and Technology"
+  bio              : "PhD Information Engineering\nMSc Information Engineering\nBSc Information Engineering\nBSc Science and Technology"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
