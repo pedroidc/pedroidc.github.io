@@ -12,6 +12,7 @@ I am a Postdoc at the n Information Engineer at the Labortory of Signal and Syst
 I am studying applications of Machine Learning for Wireless Communications Systems, identifying problems where machine learning can really help improving wireless communications systems.
 
 
+
 Research Interests
 ------
 
