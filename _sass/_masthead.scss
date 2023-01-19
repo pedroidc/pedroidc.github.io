@@ -43,13 +43,13 @@
 }
 
 .masthead__menu-item {
-  $background-color: #444444;
+  background-color: #444444;
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-    $background-color: #444444;
+    background-color: #444444;
     padding-right: 2em;
     font-weight: 700;
   }
