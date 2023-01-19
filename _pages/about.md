@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the Federal University of ABC, at the Information Engineering program.
-
-This website intends to gather my research activities, interests, and professional information.
+I am a Postdoc at the n Information Engineer at the Labortory of Signal and Systems of the Federal University of ABC.
+I am studying applications of Machine Learning for Wireless Communications Systems, identifying problems where machine learning can really help improving wireless communications systems.
 
 
 Research Interests
