@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I am a Postdoc at the n Information Engineer at the Labortory of Signal and Systems of the Federal University of ABC.
-I am studying applications of Machine Learning for Wireless Communications Systems, identifying problems where machine learning can really help improving wireless communications systems.
+In the moment, I am most interested in using Machine Learning (ML) to improve wireless communications systems.
+The ideia is to use ML in problems where ML can really bring adavantages and where traditional techniques result in poor performances.
 
 
 
