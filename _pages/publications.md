@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find an updated list of my papers on <u><a href="https://scholar.google.com.br/citations?user=m8KLKZoAAAAJ">my Google Scholar profile</a>.</u>
+You can also find an updated list of my papers on [my Google Scholar profile](https://scholar.google.com.br/citations?user=m8KLKZoAAAAJ)
 
 ## Journal Articles
 ------
