@@ -23,10 +23,13 @@ You can also find an updated list of my papers on [my Google Scholar profile](ht
 
 1. **CarNotFound: Project and Development of an Autonomous R/C Car**\
 _Journal of Production and Automation_\
-Isabelle Diniz Orlandi, Daniel Pereira Cinalli, Italo Milhomem de Abreu Lanza, Thiago Lima de Almeida, Tito Caco Curimbaba Spadini, **Pedro Ivo da Cruz**, Filipe Ieda Fazanaro\
+<font size="1">Isabelle Diniz Orlandi, Daniel Pereira Cinalli, Italo Milhomem de Abreu Lanza, Thiago Lima de Almeida, Tito Caco Curimbaba Spadini, **Pedro Ivo da Cruz**, Filipe Ieda Fazanaro</font>\
 [link](https://jpaut.com.br/carnotfound-project-and-development-of-an-autonomous-r-c-car-2/)
 
-1. **Pedro Ivo Cruz** and Murilo Bellezoni Loiola, "Least Squares Channel Estimation for Analog Network Coding Over Frequency Selective Fading Channels," _Journal of Communication and Information Systems_, 2018, 33(1). [https://doi.org/10.14209/jcis.2018.29](https://doi.org/10.14209/jcis.2018.29).
+1. **Least Squares Channel Estimation for Analog Network Coding Over Frequency Selective Fading Channels**\
+_Journal of Communication and Information Systems_\
+**Pedro Ivo Cruz** and Murilo Bellezoni Loiola\
+[link](https://doi.org/10.14209/jcis.2018.29).
 
 1. **Pedro Ivo da Cruz**, Thais Mileni Fernandes, Rodrigo Reina Muñoz , Ivan Roberto Santana Casella , “Design of a Reed Solomon Coder in FPGA using VHDL (In Portuguese: Projeto de um Codificador Reed-Solomon em FPGA Usando VHDL),” In: Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 123, 2014.
 
