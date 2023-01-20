@@ -21,22 +21,22 @@ You can also find an updated list of my papers on [my Google Scholar profile](ht
 ------
 1. **Pedro Ivo Cruz** and Murilo Bellezoni Loiola, "Least Squares Channel Estimation for Analog Network Coding Over Frequency Selective Fading Channels," _Journal of Communication and Information Systems_, 2018, 33(1). [https://doi.org/10.14209/jcis.2018.29](https://doi.org/10.14209/jcis.2018.29).
 
-2. Isabelle Diniz Orlandi, Daniel Pereira Cinalli, Italo Milhomem de Abreu Lanza, Thiago Lima de Almeida, Tito Caco Curimbaba Spadini, **Pedro Ivo da Cruz**, Filipe Ieda Fazanaro, CarNotFound: Project and Development of an Autonomous R/C Car, _Journal of Production and Automation_, 2019, 2(1).
+1. Isabelle Diniz Orlandi, Daniel Pereira Cinalli, Italo Milhomem de Abreu Lanza, Thiago Lima de Almeida, Tito Caco Curimbaba Spadini, **Pedro Ivo da Cruz**, Filipe Ieda Fazanaro, CarNotFound: Project and Development of an Autonomous R/C Car, _Journal of Production and Automation_, 2019, 2(1).
 
-3. **Pedro Ivo da Cruz**, Thais Mileni Fernandes, Rodrigo Reina Muñoz , Ivan Roberto Santana Casella , “Design of a Reed Solomon Coder in FPGA using VHDL (In Portuguese: Projeto de um Codificador Reed-Solomon em FPGA Usando VHDL),” In: Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 123, 2014.
+1. **Pedro Ivo da Cruz**, Thais Mileni Fernandes, Rodrigo Reina Muñoz , Ivan Roberto Santana Casella , “Design of a Reed Solomon Coder in FPGA using VHDL (In Portuguese: Projeto de um Codificador Reed-Solomon em FPGA Usando VHDL),” In: Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 123, 2014.
 
-4. **Pedro Ivo da Cruz**, Ivan Roberto Santana Casella , “A Spectrum Analyser Employing Software Defined Radio Technique (In Portuguese: Um Analisador de Espectro Empregando a Técnica de Software Defined Radio),” In: Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 134, 2014.
+1. **Pedro Ivo da Cruz**, Ivan Roberto Santana Casella , “A Spectrum Analyser Employing Software Defined Radio Technique (In Portuguese: Um Analisador de Espectro Empregando a Técnica de Software Defined Radio),” In: Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 134, 2014.
 
-5. **Pedro Ivo da Cruz**, Ivan Roberto Santana Casella , “Analysis of an OFDM System Employing Reed-Solomon Coding (In Portuguese: Análise de um Sistema OFDM Empregando Codificação Reed-Solomon),” Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 95, 2014.
+1. **Pedro Ivo da Cruz**, Ivan Roberto Santana Casella , “Analysis of an OFDM System Employing Reed-Solomon Coding (In Portuguese: Análise de um Sistema OFDM Empregando Codificação Reed-Solomon),” Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 95, 2014.
 
 ## Conference papers
 1. **Pedro Ivo da Cruz**, Ricardo Suyama, Murilo Bellezoni Loiola, "Robustness of the Tomlinson-Harashima Precoder in Physical-layer Security to Attacks with Non-linear CMA," In: XXXVII Brazilian Telecommunications and Signal Processing Symposium, Petrópolis, 2019.
 
-2. **Pedro Ivo da Cruz**, Murilo Bellezoni Loiola, "Adaptive Self-information Cancellation for Analog Network Coding: A Preliminary Evaluation," In: Proceedings of 7th Signal Processing Symposium, São Bernardo do Campo, 2017.
+1. **Pedro Ivo da Cruz**, Murilo Bellezoni Loiola, "Adaptive Self-information Cancellation for Analog Network Coding: A Preliminary Evaluation," In: Proceedings of 7th Signal Processing Symposium, São Bernardo do Campo, 2017.
 
-3. **Pedro Ivo da Cruz**, Ricardo Suyama, Murilo Bellezoni Loiola, "Wireless Physical-layer Security Using Precoding and an Active Eavesdropper," In: XXXV Brazilian Telecommunications and Signal Processing Symposium, São Pedro, 2017.
+1. **Pedro Ivo da Cruz**, Ricardo Suyama, Murilo Bellezoni Loiola, "Wireless Physical-layer Security Using Precoding and an Active Eavesdropper," In: XXXV Brazilian Telecommunications and Signal Processing Symposium, São Pedro, 2017.
 
-4. **Pedro Ivo da Cruz**, Murilo Bellezoni Loiola, "Channel Estimation for Two-way Relay Networks Over Frequency Selective Fading Channels," In: XXXIV Brazilian Telecommunications and Signal Processing Symposium, Santarém, 2016.
+1. **Pedro Ivo da Cruz**, Murilo Bellezoni Loiola, "Channel Estimation for Two-way Relay Networks Over Frequency Selective Fading Channels," In: XXXIV Brazilian Telecommunications and Signal Processing Symposium, Santarém, 2016.
 
 ## Expanded Summary published in proceedings of conferences
 ------
