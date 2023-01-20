@@ -51,12 +51,24 @@ _XXV Brazilian Telecommunications and Signal Processing Symposium, 2017_\
 _XXXIV Brazilian Telecommunications and Signal Processing Symposium, 2016_\
 **Pedro Ivo da Cruz**, Murilo Bellezoni Loiola
 
-1. **Pedro Ivo da Cruz**, Thais Mileni Fernandes, Rodrigo Reina Muñoz , Ivan Roberto Santana Casella , “Design of a Reed Solomon Coder in FPGA using VHDL (In Portuguese: Projeto de um Codificador Reed-Solomon em FPGA Usando VHDL),” In: Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 123, 2014.
+1. **Design of a Reed Solomon Coder in FPGA using VHDL**\
+(In Portuguese: Projeto de um Codificador Reed-Solomon em FPGA Usando VHDL)\
+_Boletim Técnico da Faculdade de Tecnologia de São Paulo, 2014._\
+**Pedro Ivo da Cruz**, Thais Mileni Fernandes, Rodrigo Reina Muñoz , Ivan Roberto Santana Casella
 
-1. **Pedro Ivo da Cruz**, Ivan Roberto Santana Casella , “A Spectrum Analyser Employing Software Defined Radio Technique (In Portuguese: Um Analisador de Espectro Empregando a Técnica de Software Defined Radio),” In: Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 134, 2014.
+1. **A Spectrum Analyser Employing Software Defined Radio Technique**\
+(In Portuguese: Um Analisador de Espectro Empregando a Técnica de Software Defined Radio)\
+_Boletim Técnico da Faculdade de Tecnologia de São Paulo, 2014._\
+**Pedro Ivo da Cruz**, Ivan Roberto Santana Casella
 
-1. **Pedro Ivo da Cruz**, Ivan Roberto Santana Casella , “Analysis of an OFDM System Employing Reed-Solomon Coding (In Portuguese: Análise de um Sistema OFDM Empregando Codificação Reed-Solomon),” Boletim Técnico da Faculdade de Tecnologia de São Paulo, v. 1, p. 95, 2014.
+1. **Analysis of an OFDM System Employing Reed-Solomon Coding**\
+(In Portuguese: Análise de um Sistema OFDM Empregando Codificação Reed-Solomon)\
+_Boletim Técnico da Faculdade de Tecnologia de São Paulo, 2014._\
+**Pedro Ivo da Cruz**, Ivan Roberto Santana Casella ,  Boletim Técnico da Faculdade de 
 
 ## Expanded Summary published in proceedings of conferences
 ------
-1.	**Pedro Ivo da Cruz**, Murilo Bellezoni Loiola, “Channel Length Estimation for Physical-layer Network Coding Communication Systems (In Portuguese: Estimação do Comprimento do Canal em Sistemas de Comunicação com Codificação de Rede na Camada Física),” In: Proceedings of V Grande ABC Research Symposium, 2016.
+1.	**Channel Length Estimation for Physical-layer Network Coding Communication Systems**\
+(In Portuguese: Estimação do Comprimento do Canal em Sistemas de Comunicação com Codificação de Rede na Camada Física)\
+_Proceedings of V Grande ABC Research Symposium, 2016_\
+**Pedro Ivo da Cruz**, Murilo Bellezoni Loiola
