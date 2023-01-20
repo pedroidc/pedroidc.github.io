@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background-color: #444444;
+  background-color: $nav-background-color;
 
   &__inner-wrap {
     @include container;
@@ -24,7 +24,6 @@
 
     nav {
       z-index: 10;
-      background-color: #444444;
     }
 
     a {
@@ -47,7 +46,6 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  background-color: #444444;
 
   &--lg {
     padding-right: 2em;
