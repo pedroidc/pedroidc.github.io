@@ -5,4 +5,4 @@ channels:
   - conda-forge
 
 dependencies:
-  - hugo
+  - hugo=0.168.0
