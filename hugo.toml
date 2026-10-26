@@ -1,0 +1,7 @@
+baseURL = "https://pedroidc.github.io/"
+locale = "pt-br"
+title = "Meu site pessoal"
+theme = "ananke"
+
+[params]
+  description = "Site pessoal, pesquisa, ensino e projetos."
